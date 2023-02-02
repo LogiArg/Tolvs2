@@ -62,5 +62,6 @@ public class FourSumFast {
         int count = count(a);
         StdOut.println(count);
         StdOut.println("elapsed time " + timer.elapsedTime());
+        StdOut.println("git");
     }
 }
