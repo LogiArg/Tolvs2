@@ -127,5 +127,6 @@ public class ThreeSumFast {
         int count = count(a);
         StdOut.println(count);
         StdOut.println("elapsed time " + timer.elapsedTime());
+        StdOut.println("test");
     }
 }
